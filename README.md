@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsraaKhaledMostafa
 - 👀 I’m interested in Embedded Systems, Machine Learning, Electronics and Communications
-- 🌱 I’m currently in Electronics and Communications department in Faculty of Engineering Ain Shams University
+- 🌱 I have recently Graduated from the Faculty of Engineering Ain Shams University Electronics and Communications department
 - 📫 How to reach me: esraa.khaled.mostafa@gmail.com
 
 <!---
